@@ -1,0 +1,13 @@
+C:\Repos\Artemis.Plugins\src\Modules\ForzaHorizon5\bin\x64\Debug\net5.0-windows\plugin.json
+C:\Repos\Artemis.Plugins\src\Modules\ForzaHorizon5\bin\x64\Debug\net5.0-windows\ForzaHorizon5.dll
+C:\Repos\Artemis.Plugins\src\Modules\ForzaHorizon5\bin\x64\Debug\net5.0-windows\ForzaHorizon5.pdb
+C:\Repos\Artemis.Plugins\src\Modules\ForzaHorizon5\obj\x64\Debug\net5.0-windows\ForzaHorizon5.csproj.AssemblyReference.cache
+C:\Repos\Artemis.Plugins\src\Modules\ForzaHorizon5\obj\x64\Debug\net5.0-windows\Properties\DesignTimeResources.baml
+C:\Repos\Artemis.Plugins\src\Modules\ForzaHorizon5\obj\x64\Debug\net5.0-windows\ForzaHorizon5_MarkupCompile.cache
+C:\Repos\Artemis.Plugins\src\Modules\ForzaHorizon5\obj\x64\Debug\net5.0-windows\ForzaHorizon5.g.resources
+C:\Repos\Artemis.Plugins\src\Modules\ForzaHorizon5\obj\x64\Debug\net5.0-windows\ForzaHorizon5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Artemis.Plugins\src\Modules\ForzaHorizon5\obj\x64\Debug\net5.0-windows\ForzaHorizon5.AssemblyInfoInputs.cache
+C:\Repos\Artemis.Plugins\src\Modules\ForzaHorizon5\obj\x64\Debug\net5.0-windows\ForzaHorizon5.AssemblyInfo.cs
+C:\Repos\Artemis.Plugins\src\Modules\ForzaHorizon5\obj\x64\Debug\net5.0-windows\ForzaHorizon5.csproj.CoreCompileInputs.cache
+C:\Repos\Artemis.Plugins\src\Modules\ForzaHorizon5\obj\x64\Debug\net5.0-windows\ForzaHorizon5.dll
+C:\Repos\Artemis.Plugins\src\Modules\ForzaHorizon5\obj\x64\Debug\net5.0-windows\ForzaHorizon5.pdb

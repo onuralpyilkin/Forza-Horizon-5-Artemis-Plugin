@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Q2SzlQtTvRLIZvsiNHE0mpAdKIULDshblTgbJFfbyIex1R6vJAo04Dg97OogckaYKIbb+vy+qNGtyjivEYbhw==",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\Artemis.Plugins\\src\\Modules\\ForzaHorizon5\\ForzaHorizon5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blood\\.nuget\\packages\\fluentvalidation\\10.3.0\\fluentvalidation.10.3.0.nupkg.sha512",
+    "C:\\Users\\blood\\.nuget\\packages\\materialdesigncolors\\2.0.1\\materialdesigncolors.2.0.1.nupkg.sha512",
+    "C:\\Users\\blood\\.nuget\\packages\\materialdesignextensions\\3.3.0\\materialdesignextensions.3.3.0.nupkg.sha512",
+    "C:\\Users\\blood\\.nuget\\packages\\materialdesignthemes\\4.1.0\\materialdesignthemes.4.1.0.nupkg.sha512",
+    "C:\\Users\\blood\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
+    "C:\\Users\\blood\\.nuget\\packages\\microsoft.win32.systemevents\\4.6.0\\microsoft.win32.systemevents.4.6.0.nupkg.sha512",
+    "C:\\Users\\blood\\.nuget\\packages\\skiasharp\\2.80.3\\skiasharp.2.80.3.nupkg.sha512",
+    "C:\\Users\\blood\\.nuget\\packages\\stylet\\1.3.6\\stylet.1.3.6.nupkg.sha512",
+    "C:\\Users\\blood\\.nuget\\packages\\system.drawing.common\\4.6.0\\system.drawing.common.4.6.0.nupkg.sha512",
+    "C:\\Users\\blood\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

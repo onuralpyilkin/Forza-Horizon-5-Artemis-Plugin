@@ -1,0 +1,10 @@
+{
+  "Guid": "0d56bc56-e7e1-4e2d-a0ff-be1175329075",
+  "Name": "ForzaHorizon5",
+  "Description": "This is my awesome plugin",
+  "Author": "blood",
+  "Website": null,
+  "Repository": null,
+  "Version": "1.0.0.0",
+  "Main": "ForzaHorizon5.dll"
+}
