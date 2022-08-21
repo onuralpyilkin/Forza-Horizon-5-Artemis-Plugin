@@ -1,10 +1,10 @@
 {
   "Guid": "0d56bc56-e7e1-4e2d-a0ff-be1175329075",
-  "Name": "ForzaHorizon5",
-  "Description": "This is my awesome plugin",
-  "Author": "blood",
-  "Website": null,
-  "Repository": null,
+  "Api": "1.0",
+  "Name": "Forza Horizon 5 Module",
+  "Description": "Retrieves telemetry data from Forza Horizon 5",
+  "Author": "onuralpyilkin",
+  "Icon": "RacingHelmet",
   "Version": "1.0.0.0",
-  "Main": "ForzaHorizon5.dll"
+  "Main": "Artemis.Plugins.Modules.ForzaHorizon5.dll"
 }

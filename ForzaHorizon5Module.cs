@@ -10,7 +10,7 @@ using System;
 namespace ForzaHorizon5
 {
     // The core of your module. Hover over the method names to see a description.
-    [PluginFeature(Name = "ForzaHorizon5", Icon = "Racing-Helmet")]
+    [PluginFeature(AlwaysEnabled = true)]
     public class ForzaHorizon5Module : Module<ForzaDataModel>
     {
         // This is useful if your module targets a specific game or application.
