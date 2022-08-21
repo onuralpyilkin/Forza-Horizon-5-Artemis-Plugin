@@ -1,3 +1,0 @@
-C:\ProgramData\Artemis\plugins\ForzaHorizon5-0d56bc56\plugin.json
-C:\ProgramData\Artemis\plugins\ForzaHorizon5-0d56bc56\ForzaHorizon5.dll
-C:\ProgramData\Artemis\plugins\ForzaHorizon5-0d56bc56\ForzaHorizon5.pdb
